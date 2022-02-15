@@ -1,0 +1,13 @@
+Cars,Num_Passengers,Weight,Horsepower,MPG,Length,Width,Height,Answer
+Hyundai Sonata,5,3300,180,28,193,73,57,Yes
+Toyota Camry,5,3400,202,28,192,72,56,Yes
+Honda Odyessy,7,4500,280,19,205,79,68,No
+Ford Mustang,5,3650,310,21,188,75,54,No
+Mercedes-Benz E-Class,5,4100,255,23,194,73,57,No
+Jeep Wrangler,5,4200,130,18,153,66,72,No
+BMW 3 Series,5,3700,180,24,182,71,56,No
+Toyota Sienna,7,4700,245,36,204,79,69,No
+Ford Taurus,5,3900,288,18,203,76,61,Yes
+Audi A6,5,4200,335,22,194,74,57,No
+Kia Forte,5,2700,147,31,183,71,57,No
+Ford Fiesta,5,2500,120,27,160,68,57,No
